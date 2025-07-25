@@ -10,9 +10,9 @@ wizardZ is a visually engaging animated website created using **HTML**, **CSS**,
 - Responsive layout for multiple screen sizes
 - Creative UI inspired by magical themes
 
-## 🔗 Live Demo
+ <!--## 🔗 Live Demo
 
-[Click here to view the live site](https://your-live-demo-link.com) <!-- Replace with actual URL -->
+[Click here to view the live site](https://your-live-demo-link.com) Replace with actual URL -->
 
 ## 📸 Preview
 
