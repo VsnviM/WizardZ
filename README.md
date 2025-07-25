@@ -14,9 +14,9 @@ wizardZ is a visually engaging animated website created using **HTML**, **CSS**,
 
 [Click here to view the live site](https://your-live-demo-link.com) Replace with actual URL -->
 
-## 📸 Preview
+ <!--## 📸 Preview
 
-> A preview GIF or screenshot can be added here.
+> A preview GIF or screenshot can be added here.-->
 
 ## 📁 Folder Structure
 
